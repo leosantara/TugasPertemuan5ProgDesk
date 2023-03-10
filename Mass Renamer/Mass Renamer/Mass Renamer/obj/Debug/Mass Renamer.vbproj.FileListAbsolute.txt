@@ -1,0 +1,13 @@
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\bin\Debug\Mass Renamer.exe.config
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\bin\Debug\Mass Renamer.exe
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\bin\Debug\Mass Renamer.pdb
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\bin\Debug\Mass Renamer.xml
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.vbproj.AssemblyReference.cache
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.vbproj.SuggestedBindingRedirects.cache
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass_Renamer.Form1.resources
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass_Renamer.Resources.resources
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.vbproj.GenerateResource.cache
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.vbproj.CoreCompileInputs.cache
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.exe
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.xml
+D:\Latihan\Desktop\Mass Renamer\Mass Renamer\Mass Renamer\obj\Debug\Mass Renamer.pdb
